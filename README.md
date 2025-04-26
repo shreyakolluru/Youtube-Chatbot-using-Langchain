@@ -32,7 +32,9 @@ Python 3
 
 
 git clone https://github.com/shreyakolluru/youtube-chatbot-langchain.git
+
 cd youtube-chatbot-langchain
+
 pip install -r requirements.txt
 
 Or install manually:
