@@ -30,17 +30,13 @@ Python 3
 
 ## 📦 **Installation**
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/youtube-chatbot-langchain.git
+
+git clone https://github.com/shreyakolluru/youtube-chatbot-langchain.git
 cd youtube-chatbot-langchain
 pip install -r requirements.txt
+
 Or install manually:
 
-bash
-Copy
-Edit
 pip install youtube-transcript-api langchain-community langchain-cohere faiss-cpu python-dotenv
 
 
